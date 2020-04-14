@@ -1,0 +1,17 @@
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\EventParser_ConsoleApp.exe.config
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\EventParser_ConsoleApp.exe
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\EventParser_ConsoleApp.pdb
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\CommandLineArgumentsParser.dll
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\CsvHelper.dll
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\System.ValueTuple.dll
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\CsvHelper.xml
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\System.ValueTuple.xml
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\obj\Debug\EventParser_CLI.csprojAssemblyReference.cache
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\obj\Debug\EventParser_CLI.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\obj\Debug\EventParser_CLI.csproj.CopyComplete
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\obj\Debug\EventParser_ConsoleApp.exe
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\obj\Debug\EventParser_ConsoleApp.pdb
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\EventParser_ConsoleApp.exe.manifest
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\bin\Debug\EventParser_ConsoleApp.application
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\obj\Debug\EventParser_ConsoleApp.exe.manifest
+C:\Users\Isaac\Downloads\EventParser_Console\EventParser_ConsoleApp\obj\Debug\EventParser_ConsoleApp.application

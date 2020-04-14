@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{2612DA13-5C25-4189-A862-DED345F71E4C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="EventParser/Class1.cs">
+    <Files>
+      <File FileName="EventParser/Class1.cs" Line="18" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="EventParser" expanded="True">
+            <Node name="EventParser" expanded="True">
+              <Node name="References" expanded="True" />
+              <Node name="EventParser" expanded="True">
+                <Node name="EventParser.ConnectionSettings" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.EventParser PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

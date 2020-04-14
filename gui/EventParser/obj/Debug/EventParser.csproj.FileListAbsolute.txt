@@ -1,0 +1,138 @@
+C:/Users/Isaac/source/repos/EventParser/EventParser/bin/Debug/EventParser.exe.config
+C:/Users/Isaac/source/repos/EventParser/EventParser/bin/Debug/EventParser.exe
+C:/Users/Isaac/source/repos/EventParser/EventParser/bin/Debug/EventParser.pdb
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.csprojAssemblyReference.cache
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.Form1.resources
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.Properties.Resources.resources
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.csproj.GenerateResource.cache
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.csproj.CoreCompileInputs.cache
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.exe
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.pdb
+C:/Users/Isaac/source/repos/EventParser/EventParser/bin/Debug/CsvHelper.dll
+C:/Users/Isaac/source/repos/EventParser/EventParser/bin/Debug/System.ValueTuple.dll
+C:/Users/Isaac/source/repos/EventParser/EventParser/bin/Debug/CsvHelper.xml
+C:/Users/Isaac/source/repos/EventParser/EventParser/bin/Debug/System.ValueTuple.xml
+C:/Users/Isaac/source/repos/EventParser/EventParser/obj/Debug/EventParser.csproj.CopyComplete
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/EventParser.exe.config
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/EventParser.exe
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/EventParser.pdb
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/com.rusanu.dataconnectiondialog.dll
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/CsvHelper.dll
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/System.ValueTuple.dll
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/CsvHelper.xml
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/bin/Debug/System.ValueTuple.xml
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.Form1.resources
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.Properties.Resources.resources
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.csproj.GenerateResource.cache
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.csproj.CoreCompileInputs.cache
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.csproj.CopyComplete
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.exe
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.pdb
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.frmConnection.resources
+C:/Users/isaac.mallampati/Downloads/csv/repos/EventParser/EventParser/obj/Debug/EventParser.csprojAssemblyReference.cache
+D:/EventParser/EventParser/bin/Debug/EventParser.exe.config
+D:/EventParser/EventParser/bin/Debug/EventParser.exe
+D:/EventParser/EventParser/bin/Debug/EventParser.pdb
+D:/EventParser/EventParser/bin/Debug/com.rusanu.dataconnectiondialog.dll
+D:/EventParser/EventParser/bin/Debug/CsvHelper.dll
+D:/EventParser/EventParser/bin/Debug/System.ValueTuple.dll
+D:/EventParser/EventParser/bin/Debug/CsvHelper.xml
+D:/EventParser/EventParser/bin/Debug/System.ValueTuple.xml
+D:/EventParser/EventParser/obj/Debug/EventParser.csprojAssemblyReference.cache
+D:/EventParser/EventParser/obj/Debug/EventParser.Form1.resources
+D:/EventParser/EventParser/obj/Debug/EventParser.frmAbout.resources
+D:/EventParser/EventParser/obj/Debug/EventParser.frmConnection.resources
+D:/EventParser/EventParser/obj/Debug/EventParser.Properties.Resources.resources
+D:/EventParser/EventParser/obj/Debug/EventParser.csproj.GenerateResource.cache
+D:/EventParser/EventParser/obj/Debug/EventParser.csproj.CoreCompileInputs.cache
+D:/EventParser/EventParser/obj/Debug/EventParser.csproj.CopyComplete
+D:/EventParser/EventParser/obj/Debug/EventParser.exe
+D:/EventParser/EventParser/obj/Debug/EventParser.pdb
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.csprojAssemblyReference.cache
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.exe.config
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.Form1.resources
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.frmAbout.resources
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.frmConnection.resources
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.Properties.Resources.resources
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.csproj.GenerateResource.cache
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.csproj.CoreCompileInputs.cache
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.exe
+/Volumes/FILES/EventParser/EventParser/obj/Debug/EventParser.pdb
+G:\EventParser\EventParser\obj\Debug\EventParser.Form1.resources
+G:\EventParser\EventParser\obj\Debug\EventParser.frmAbout.resources
+G:\EventParser\EventParser\obj\Debug\EventParser.frmConnection.resources
+G:\EventParser\EventParser\obj\Debug\EventParser.Properties.Resources.resources
+G:\EventParser\EventParser\obj\Debug\EventParser.csproj.GenerateResource.cache
+G:\EventParser\EventParser\obj\Debug\EventParser.csproj.CoreCompileInputs.cache
+G:\EventParser\EventParser\obj\Debug\EventParser.exe
+G:\EventParser\EventParser\obj\Debug\EventParser.pdb
+G:\EventParser\EventParser\bin\Debug\EventParser.exe.config
+G:\EventParser\EventParser\bin\Debug\EventParser.exe
+G:\EventParser\EventParser\bin\Debug\EventParser.pdb
+G:\EventParser\EventParser\bin\Debug\com.rusanu.dataconnectiondialog.dll
+G:\EventParser\EventParser\bin\Debug\CsvHelper.dll
+G:\EventParser\EventParser\bin\Debug\System.ValueTuple.dll
+G:\EventParser\EventParser\bin\Debug\CsvHelper.xml
+G:\EventParser\EventParser\bin\Debug\System.ValueTuple.xml
+G:\EventParser\EventParser\obj\Debug\EventParser.csproj.CopyComplete
+G:\EventParser - Copy\EventParser\bin\Debug\EventParser.exe.config
+G:\EventParser - Copy\EventParser\bin\Debug\EventParser.exe
+G:\EventParser - Copy\EventParser\bin\Debug\EventParser.pdb
+G:\EventParser - Copy\EventParser\bin\Debug\com.rusanu.dataconnectiondialog.dll
+G:\EventParser - Copy\EventParser\bin\Debug\CsvHelper.dll
+G:\EventParser - Copy\EventParser\bin\Debug\System.ValueTuple.dll
+G:\EventParser - Copy\EventParser\bin\Debug\CsvHelper.xml
+G:\EventParser - Copy\EventParser\bin\Debug\System.ValueTuple.xml
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.csprojAssemblyReference.cache
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.Form1.resources
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.frmAbout.resources
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.frmConnection.resources
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.Properties.Resources.resources
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.csproj.GenerateResource.cache
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.csproj.CoreCompileInputs.cache
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.csproj.CopyComplete
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.exe
+G:\EventParser - Copy\EventParser\obj\Debug\EventParser.pdb
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\EventParser.exe.config
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\EventParser.exe
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\EventParser.pdb
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\com.rusanu.dataconnectiondialog.dll
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\CsvHelper.dll
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\System.ValueTuple.dll
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\CsvHelper.xml
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\System.ValueTuple.xml
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.GUI.frmConnection.resources
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.GUI.frmMain.resources
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.GUI.frmAbout.resources
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.Properties.Resources.resources
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.csproj.GenerateResource.cache
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.csproj.CopyComplete
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.exe
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.pdb
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\EventParser.exe.manifest
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\bin\Debug\EventParser.application
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.exe.manifest
+C:\Users\Isaac\Downloads\EventParser - Copy\EventParser\obj\Debug\EventParser.application
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\EventParser.exe.config
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\EventParser.exe.manifest
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\EventParser.application
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\EventParser.exe
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\EventParser.pdb
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\com.rusanu.dataconnectiondialog.dll
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\CsvHelper.dll
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\System.ValueTuple.dll
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\CsvHelper.xml
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\bin\Debug\System.ValueTuple.xml
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.csprojAssemblyReference.cache
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.GUI.frmConnection.resources
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.GUI.frmMain.resources
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.GUI.frmAbout.resources
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.Properties.Resources.resources
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.csproj.GenerateResource.cache
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.csproj.CoreCompileInputs.cache
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.exe.manifest
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.application
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.csproj.CopyComplete
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.exe
+C:\Users\Isaac\Downloads\EventParser - Copy - Copy\EventParser\obj\Debug\EventParser.pdb
